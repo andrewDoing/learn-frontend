@@ -1,4 +1,4 @@
-# Getting Started
+# Lesson 0: Getting Started
 
 The first step is to create your environment for this and future lessons.
 
