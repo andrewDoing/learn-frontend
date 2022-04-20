@@ -14,4 +14,10 @@
 
 ## CSS Grid
 
-https://www.w3schools.com/css/css_grid.asp
+<https://www.w3schools.com/css/css_grid.asp>
+
+## Tailwind CSS <https://tailwindcss.com/>
+
+Tailwind CSS is a modern CSS framework that provides classes for styling markup.
+
+You don't need to write CSS, Tailwind compiles the classes into static CSS at build time.

@@ -5,7 +5,7 @@ The first step is to create your environment for this and future lessons.
 ## Step 0: Install Node.js
 
 You'll need to install Node.js version 10.13 or later.
-https://nodejs.org/en/
+<https://nodejs.org/en/>
 
 ## Step 1: Create a Next.js app
 
