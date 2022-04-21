@@ -32,4 +32,4 @@ Whenever that object gets passed to a function, use the interface name as a type
 
 ## TypeScript has many more features
 
-These are just the basics to get you working. TypeScript has a lot more features, akin to languages like C#. You can learn more by reading the [TypeScript Handbook]().
+These are just the basics to get you working. TypeScript has a lot more features, akin to languages like C#. You can learn more by reading the [TypeScript Handbook](https://www.typescriptlang.org/docs/handbook/intro.html).
