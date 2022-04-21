@@ -15,6 +15,7 @@ foo     = true;  // foo is now a boolean
 **Note**: TypeSript solves this problem by adding strong typing.
 
 ## JavaScript Variables
+
 [Mozilla Docs: `let`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/let)
 
 [Mozilla Docs: `var`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/var)

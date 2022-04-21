@@ -12,7 +12,7 @@
 
 ### Equality Comparisons and Sameness
 
-Typically in many programming languages, you'd use the `==` operator. This operator exists in JavaScript, but it works loosely, so there may be unexpected results. 
+Typically in many programming languages, you'd use the `==` operator. This operator exists in JavaScript, but it works loosely, so there may be unexpected results.
 
 **Instead, use `===` to get strict equality between variables.**
 
