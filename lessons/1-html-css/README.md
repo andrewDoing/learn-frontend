@@ -12,6 +12,25 @@
 
 <https://www.w3schools.com/css/css_intro.asp>
 
+### CSS Syntax
+
+![CSS Syntax](https://www.w3schools.com/Css/img_selector.gif)
+
+### The CSS class Selector
+
+Every element with class="center" will be red and center aligned.
+
+```css
+.center {
+  text-align: center;
+  color: red;
+}
+```
+
+## CSS Flexbox
+
+<https://www.w3schools.com/Css/css3_flexbox.asp>
+
 ## CSS Grid
 
 <https://www.w3schools.com/css/css_grid.asp>

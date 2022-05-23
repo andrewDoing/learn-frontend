@@ -8,6 +8,10 @@
 
 - Supports event-driven, functional, object-oriented, and imperative programming
 
+- Brief History <https://en.wikipedia.org/wiki/JavaScript>
+
+- Code Playground <https://jsfiddle.net/>
+
 ## Useful Tips
 
 ### Equality Comparisons and Sameness
@@ -15,6 +19,8 @@
 Typically in many programming languages, you'd use the `==` operator. This operator exists in JavaScript, but it works loosely, so there may be unexpected results.
 
 **Instead, use `===` to get strict equality between variables.**
+
+### [Top JavaScript Pitfalls](https://stackoverflow.com/questions/2749952/what-are-the-top-javascript-pitfalls)
 
 ## Topics
 
@@ -28,9 +34,8 @@ Typically in many programming languages, you'd use the `==` operator. This opera
 
 - ### [Event Loop](event-loop.md)
 
-## Mozilla Docs
+## JS Documentation
 
-<https://developer.mozilla.org/en-US/docs/Web/javascript>
+[Mozilla Documentation](https://developer.mozilla.org/en-US/docs/Web/javascript)
 
-Mozilla has a JavaScript Guide which goes into more detail than this upskilling.
-<https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Introduction>
+[Mozilla's JavaScript Guide](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Introduction)
