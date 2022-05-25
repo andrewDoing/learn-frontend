@@ -1,0 +1,21 @@
+.appBarContainer {
+  text-align: center;
+}
+
+.appBarButton {
+  background-color: #4a4a4a;
+  border: none;
+  border-radius: 5px;
+  color: white;
+  height: 40px;
+  margin: 5px;
+  width: 100px;
+}
+
+.appBarButton:active {
+  opacity: 0.75;
+}
+
+.appBarButton:disabled {
+  opacity: 0.4;
+}
