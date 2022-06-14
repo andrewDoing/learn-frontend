@@ -9,13 +9,14 @@ var x:string = simpleGreeter("Person")
 interface Person {
     firstName: string;
     lastName: string;
+    getName: (s: string)=>string
 }
- 
+
 function interfaceGreeter(person: Person) {
   return "Hello, " + person.firstName + " " + person.lastName;
 }
- 
-let interfaceUser = { firstName: "Jane", lastName: "User" };
+
+let interfaceUser:Person = { firstName: "Jane", lastName: "User", getName: (s: string)=>s };
  
 document.body.textContent = interfaceGreeter(interfaceUser);
 
@@ -42,4 +43,4 @@ function greeter(person: Person) {
  
 let user = new Student("Jane", "M.", "User");
  
-document.body.textContent = greeter(user);
+//document.body.textContent = greeter(user);

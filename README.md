@@ -12,6 +12,6 @@ Lessons to help upskill on frontend development, from HTML/CSS/JavaScript, to Ty
 
 [Lesson 3: TypeScript](/lessons/3-typescript/README.md)
 
-[[WIP] Lesson 4: React](/lessons/4-react/README.md)
+[Lesson 4: React](/lessons/4-react/README.md)
 
 [[WIP] Lesson 5: Next.js](/lessons/5-nextjs/README.md)
