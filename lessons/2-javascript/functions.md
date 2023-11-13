@@ -4,7 +4,7 @@
 
 There are multiple ways to write functions in JavaScript, and the differences are more than just syntax.
 
-### Function declarations
+## Function declarations
 
 - Parameters are passed by value, however if an object is passed and its properties are modified, that change will persist outside of the function.
 
@@ -16,7 +16,7 @@ function square(number) {
 }
 ```
 
-### Function expressions
+## Function expressions
 
 - Doesn't work with function hoisting. Must be expressed before being called.
 
@@ -29,7 +29,7 @@ const square = function(number) {
 }
 ```
 
-### Arrow function expressions
+## Arrow function expressions
 
 - Arrow functions don't have its own `this`, `arguments`, `super`, or `new.target`.
 
