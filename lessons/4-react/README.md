@@ -1,24 +1,44 @@
 # Creating a Simple Todo Add in React
 
 ## Getting started
+The official React Learn site has a great tutorial for getting started with React. It's recommended to follow this tutorial to get started with React.
 
-To setup your environment, run the following command
+Learn React Docs: https://react.dev/learn
 
-```bash
-npx create-next-app --typescript simple-todo-app --use-yarn
-```
+## Tutorial: Writing a Simple Todo App
 
-This will create a new project with the basic plumbing to get started creating a next.js app.
-In this section we will focus on creating a simple single page react app.
+Mozilla's Tutorial: https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/React_getting_started
 
 ## Basic React Concepts
 
-### State
+### React Lifecycle
 
-### Hooks
+In React, the overall goal is to create a user interface that is reactive to changes in state. This is done by creating a virtual DOM (document object model), which is a representation of the actual DOM. When the state changes, the virtual DOM is updated, and React will compare the virtual DOM to the actual DOM, and only update the parts of the DOM that have changed.
 
-### Props (Properties)
+Learn React: Render and Commit: https://react.dev/learn/render-and-commit
+
+Learn React: State as a Snapshot: https://react.dev/learn/state-as-a-snapshot
+
+Learn React: Lifecycle of Reactive Effects: https://react.dev/learn/lifecycle-of-reactive-effects#the-lifecycle-of-an-effect
 
 ### JSX
 
-## Creating the Todo App
+JSX is a syntax extension to JavaScript that lets you write HTML-like markup inside a Javascript file. JSX produces React “elements”.
+
+Learn React: Writing Markup with JSX: https://react.dev/learn/writing-markup-with-jsx
+
+### Props (Properties)
+
+Props are the way that data is passed into React components. Props are passed into components, and are accessed in the component as a parameter to the function. If a prop changes, the component will automatically re-render.
+
+### Hooks
+[Read about Hooks](./hooks.md)
+
+### Testing
+[Read more about Testing](./testing.md)
+
+### FAQs
+
+#### Why do my components render twice?
+
+React renders components twice in development mode to detect side effects. This is not a problem in production mode.
