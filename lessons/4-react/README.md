@@ -31,8 +31,7 @@ Learn React: Writing Markup with JSX: https://react.dev/learn/writing-markup-wit
 
 Props are the way that data is passed into React components. Props are passed into components, and are accessed in the component as a parameter to the function. If a prop changes, the component will automatically re-render.
 
-### Hooks
-[Read about Hooks](./hooks.md)
+
 
 ### Testing
 [Read more about Testing](./testing.md)
@@ -42,3 +41,10 @@ Props are the way that data is passed into React components. Props are passed in
 #### Why do my components render twice?
 
 React renders components twice in development mode to detect side effects. This is not a problem in production mode.
+
+## Advanced React Concepts
+
+For further learning, I recommend the following resources.
+
+- [patterns.dev - Collection of WebApp Patterns](https://www.patterns.dev)
+- [Tao of React - Opinionated Best Practices](https://alexkondov.com/tao-of-react/)
